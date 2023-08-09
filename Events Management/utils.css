@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+.body{
+    color:lavender;
+}
+.form{
+    padding: 11px 0px;
+}
+
+.buttoncontact{
+    border-radius: 10px;
+        background-color: chocolate;
+        padding: 3px 20px;
+        color: white;
+        margin: 0px 10px;
+}
+.buttoncontact:hover{
+    background-color: coral;
+}
+.aboutfont {
+    font-family: Lugrasimo, cursive;
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 159px;
+    margin-bottom: 0%;
+}
+.brownp{
+            font-family: 'Lugrasimo', cursive;
+            color: brown;
+            text-align: center;
+            margin-top: 13px;
+}

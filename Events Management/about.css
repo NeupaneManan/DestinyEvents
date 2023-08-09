@@ -1,0 +1,33 @@
+.image{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+}
+.floatl{
+    float: left;
+    margin-left: 40px;
+}
+.floatr{
+    float: right;
+    margin-right: 40px;
+}
+.ap{
+        font-family: 'Lugrasimo', cursive;
+        color: brown;
+        margin-top: 20px;
+        font-size: 16px;
+        margin-right: 20px;
+    }
+
+.abouth2{
+    font-family: 'Lugrasimo', cursive;
+    font-size: 35px;
+    color: brown;
+    
+}
+.marginleft1{
+    margin-left: 288px;
+}
+.marginl{
+    margin-left: 38%;
+}

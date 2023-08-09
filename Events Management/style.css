@@ -1,0 +1,95 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-bottom: 5px solid brown;
+    background-color:transparent;
+    position: sticky;
+    position: -webkit-sticky;
+    
+}
+
+li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+        color: black;
+        text-align: center;
+        padding: 22px 60px;
+        text-decoration: none;
+}
+
+li a:hover {
+    background-color:mediumturquoise;
+    border-radius: 5px;
+}
+.navform{
+    margin:20px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+#search{
+    
+    padding: 2px 7px;
+        margin-top: 8px;
+        float: right
+}
+.area {
+    background: rgba(0, 0, 0, 0.7) url(area.jpg);
+    height: 632px;
+    margin-top: -445px;
+    background-blend-mode: darken;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.welcomefont {
+    font-family: Lugrasimo, cursive;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 233px;
+    margin-bottom: 0%;
+}
+
+.p {
+    font-family: 'Lugrasimo', cursive;
+    color: white;
+    text-align: center;
+    margin-top: 13px;
+}
+
+.button {
+    border-radius: 10px;
+    background-color: chocolate;
+    padding: 3px 13px;
+    color: white;
+    margin: 0px 10px;
+}
+
+.button:hover {
+    background-color: coral;
+}
+.gallery{
+    background: rgba(0, 0, 0, 0.7) url(couple.jpg);
+    height: 400px;
+    margin-top: -298px;
+    background-blend-mode: darken;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about {
+    background: rgba(0, 0, 0, 0.7) url(love.jpg);
+    height: 400px;
+    margin-top: -298px;
+    background-blend-mode: darken;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
